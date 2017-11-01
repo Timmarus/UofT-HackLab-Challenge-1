@@ -1,4 +1,4 @@
-l=[1,2,3,4,5]
+l=[]
 n=l[::-1]
 while n!=l:
  for i in range(0,len(n)-1,2):
