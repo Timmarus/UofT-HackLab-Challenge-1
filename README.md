@@ -1,5 +1,5 @@
 Set l to whatever list you want to permute and run the script (from IDLE or another IDE)
-
+<hr/>
 
 
 
