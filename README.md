@@ -1,3 +1,8 @@
+Set l to whatever list you want to permute and run the script (from IDLE or another IDE)
+
+
+
+
 # UofT-HackLab-Challenge-1
 Submission to the UTM HackLab challenge #1.
 
@@ -10,4 +15,3 @@ Did you know that a list of n numbers can be permuted enough times to return to 
 Write the shortest Python implementation (in bytes) of a function that takes integer n as an input and outputs the permutations of the lists as described above. 
 
 NOTE: You are not allowed to use the following functions in your implementation: Lambda, Zip, Map.
-
