@@ -1,6 +1,7 @@
 Set l to whatever list you want to permute and run the script (from IDLE or another IDE)
-<hr/>
 <br /><br /><br /><br />
+
+<hr/>
 # UofT-HackLab-Challenge-1
 Submission to the UTM HackLab challenge #1.
 
