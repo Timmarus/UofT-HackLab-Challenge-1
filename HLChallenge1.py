@@ -1,8 +1,7 @@
 l=[]
 n=l[::-1]
 while n!=l:
- for i in range(0,len(n)-1,2):
-  n[i],n[i+1]=n[i+1],n[i]
+ n = [n[x+2*(not x%2)-1] for x in range(len(n))]
  print(n)
- if n!=l
+ if n!=l:
   n=n[::-1]
